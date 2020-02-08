@@ -1,4 +1,4 @@
-from hw2skeleton import io
+from hw2 import io
 import pytest
 import os
 
